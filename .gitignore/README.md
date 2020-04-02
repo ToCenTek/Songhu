@@ -1,2 +1,5 @@
-###### server address：192.168.0.6
-###### server port：6000
+*.h linguist-language=Objective-C
+*.m linguist-language=Objective-C
+*.xib linguist-language=Objective-C
+*.plist linguist-language=Objective-C
+*.png linguist-language=Objective-C
